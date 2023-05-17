@@ -1,0 +1,16 @@
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\bin\Debug\ProiectMTP_FotaBianca.exe.config
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\bin\Debug\ProiectMTP_FotaBianca.exe
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\bin\Debug\ProiectMTP_FotaBianca.pdb
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.csproj.AssemblyReference.cache
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.csproj.SuggestedBindingRedirects.cache
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.Form1.resources
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.Properties.Resources.resources
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.csproj.GenerateResource.cache
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.csproj.CoreCompileInputs.cache
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.exe
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.pdb
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.FormMain.resources
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.FormCat.resources
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.FormCauta.resources
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.Signup.resources
+D:\LAB_MPT\Lab4\ProiectMTP_FotaBianca\ProiectMTP_FotaBianca\obj\Debug\ProiectMTP_FotaBianca.Menu.resources
