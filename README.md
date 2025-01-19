@@ -1,0 +1,1 @@
+This application is meant to keep the inventory of a coffee shop, performing basic operations such as deleting, adding, searching and updating. I used technologies such as C# and SQL Server Management Studio.
